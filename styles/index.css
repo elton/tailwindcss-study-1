@@ -1,5 +1,5 @@
 @tailwind base;
-
+/* 设置容器高度为100% */
 body {
   height: 100%;
   background-color: rgba(226, 232, 240, 1);
