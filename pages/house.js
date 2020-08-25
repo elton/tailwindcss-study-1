@@ -3,6 +3,9 @@ import Head from "next/head";
 export default function house() {
   return (
     <div className="flex items-center justify-center min-h-screen">
+      <Head>
+        <title>House</title>
+      </Head>
       <div className="max-w-sm w-full bg-white rounded-lg overflow-hidden shadow-xl">
         <div className="h-48 relative">
           <a
